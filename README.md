@@ -18,14 +18,12 @@ Sentimen akan diklasifikasikan ke dalam tiga label: **positif**, **negatif**, at
 ## **Prediksi Model**  
 Model terbaik mampu mengklasifikasikan sentimen dengan cukup baik. 
 Contoh inferensi:  
-###
-**Input:**
+###**Input:**
     - "fitur banyak errornya, kamera jelek buram",
     - "Senang sekali pembayaran lebih mudah",
     - "Biasa saja"
 
-###
-**Prediksi**
+###**Prediksi**
     - "Negative"
     - "Positive"
     - "Neutral"

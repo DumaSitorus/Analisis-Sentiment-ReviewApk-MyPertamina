@@ -47,8 +47,9 @@ Contoh inferensi:
 │── README.md    
 
 ## **Cara Menjalankan**  
-### 1️⃣ Clone repo ini: 
+### 
 ```sh
+1️⃣ Clone repo ini: 
 git clone https://github.com/DumaSitorus/Analisis-Sentiment-ReviewApk-MyPertamina.git
 cd Analisis-Sentiment-ReviewApk-MyPertamina 
 2️⃣ Install dependensi:

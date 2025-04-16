@@ -12,7 +12,7 @@ Sentimen akan diklasifikasikan ke dalam tiga label: **positif**, **negatif**, at
   - Model **Bi-GRU**  
   - Model **SVM**  
 - **Web Scraping** untuk mengumpulkan dataset  
-- **Preprocessing NLP** (stopwords removal, stemming, tokenization)  
+- **Preprocessing NLP** (stopwords removal, stemming, tokenization, TF-IDF)  
 - **Git & GitHub** untuk kolaborasi  
 
 ## **Prediksi Model**  
@@ -32,7 +32,6 @@ Contoh inferensi:
 📁 Projek analisis sentimen - MyPertamina  
 │── 📂 data  
 │   ├── ulasan_aplikasi_clean.csv  
-│   ├── Label_sentiment.csv   
 │── 📂 models   
 │   ├── label_mapping.pkl  
 │   ├── model_biGRU.h5   

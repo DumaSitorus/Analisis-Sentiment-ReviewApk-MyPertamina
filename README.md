@@ -15,17 +15,20 @@ Sentimen akan diklasifikasikan ke dalam tiga label: **positif**, **negatif**, at
 - **Preprocessing NLP** (stopwords removal, stemming, tokenization)  
 - **Git & GitHub** untuk kolaborasi  
 
-## **Model**  
+## **Prediksi Model**  
 Model terbaik mampu mengklasifikasikan sentimen dengan cukup baik. 
 Contoh inferensi:  
+###
 **Input:**
-    - *"fitur banyak errornya, kamera jelek buram"*,
-    - *"Senang sekali pembayaran lebih mudah"*,
-    - *"Biasa saja"*
+    - "fitur banyak errornya, kamera jelek buram",
+    - "Senang sekali pembayaran lebih mudah",
+    - "Biasa saja"
+
+###
 **Prediksi**
-    - *"Negative"* 
-    - *"Positive"* 
-    - *"Neutral"* 
+    - "Negative"
+    - "Positive"
+    - "Neutral"
 
 ## **Struktur Proyek**  
 📁 Projek analisis sentimen - MyPertamina  
@@ -49,8 +52,8 @@ Contoh inferensi:
 ## **Cara Menjalankan**  
 ### 1️⃣ Clone repo ini: 
 ```sh
-git clone 
-cd Analysis-Sentimen-MyPertamina
+git clone https://github.com/DumaSitorus/Analisis-Sentiment-ReviewApk-MyPertamina.git
+cd Analisis-Sentiment-ReviewApk-MyPertamina 
 2️⃣ Install dependensi:
 pip install -r requirements.txt
 3️⃣ Jalankan model inference:

@@ -34,20 +34,20 @@ Contoh inferensi:
 📁 Projek analisis sentimen - MyPertamina  
 │── 📂 data  
 │   ├── ulasan_aplikasi_clean.csv  
-│   ├── Label_sentiment.csv  
-│── 📂 models  
-│   ├── label_mapping.pkl 
-│   ├── model_biGRU.h5  
-│   ├── model_biLSTM.h5  
-│   ├── svm_model.pkl  
-│   ├── tdfidf_vectorizer.pkl  
-│   ├── tokenizer.pkl
-│── 📂 notebooks  
-│   ├── Inference.ipynb 
-│   ├── Scraping.ipynb
-│   ├── Sentiment_Analysis_Apk_MyPertamina.ipynb 
-│── requirements.txt  
-│── README.md  
+│   ├── Label_sentiment.csv   
+│── 📂 models   
+│   ├── label_mapping.pkl  
+│   ├── model_biGRU.h5   
+│   ├── model_biLSTM.h5   
+│   ├── svm_model.pkl   
+│   ├── tdfidf_vectorizer.pkl   
+│   ├── tokenizer.pkl   
+│── 📂 notebooks     
+│   ├── Inference.ipynb   
+│   ├── Scraping.ipynb   
+│   ├── Sentiment_Analysis_Apk_MyPertamina.ipynb   
+│── requirements.txt    
+│── README.md    
 
 ## **Cara Menjalankan**  
 ### 1️⃣ Clone repo ini: 
